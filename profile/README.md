@@ -8,9 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Build.+Learn.+Share.;AI+%7C+Cloud+%7C+Open+Source;Student-led+Developer+Community" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="./logo.png" alt="GDG on Campus Makerere Logo" width="120"/>
-</p>
+![GDG on Campus Makerere – Ghibli style boy illustration](../assets/community.png)
 
 ---
 
@@ -23,6 +21,7 @@ We create a welcoming space for students and tech enthusiasts to grow their skil
 ---
 
 ## What We Focus On
+
 - Artificial Intelligence & Google AI Studio  
 - Cloud & Google Cloud Platform  
 - Web & Mobile Development  
@@ -32,9 +31,8 @@ We create a welcoming space for students and tech enthusiasts to grow their skil
 ---
 
 ## Who Can Join?
-Our community is open to **everyone** — students, beginners, and experienced developers alike.
 
-![GDG on Campus Makerere – Ghibli style boy illustration](../assets/ghibli-boy.png)
+Our community is open to **everyone** — students, beginners, and experienced developers alike.
 
 We believe in diversity, inclusion, and learning together.  
 If you’re curious, motivated, and ready to build, **you belong here** 💙💛💚❤️
@@ -42,6 +40,7 @@ If you’re curious, motivated, and ready to build, **you belong here** 💙💛
 ---
 
 ## Community Guidelines
+
 We value a respectful and focused community.
 
 - Be kind, respectful, and inclusive  
@@ -53,15 +52,17 @@ Let’s grow together 🚀
 
 ---
 
-## 📂 What You’ll Find Here
-- 🛠️ Event demos & workshop code  
-- 📘 Learning resources & tutorials  
-- 🌍 Community-led projects  
-- 💡 Experimentation and ideas  
+## What You’ll Find Here
+
+- Study Jams & workshop code  
+- Learning resources & tutorials  
+- Community-led projects  
+- Experimentation and ideas  
 
 ---
 
-## 🛠️ Get Involved
+## Get Involved
+
 - Attend our events  
 - Contribute to projects  
 - Open issues & submit pull requests  
@@ -81,6 +82,10 @@ Let’s grow together 🚀
 - 🚀 Growth through consistency  
 
 ---
+
+<p align="center">
+  <img src="../assets/gdg.png" alt="GDG on Campus Makerere – Ghibli style boy illustration" />
+</p>
 
 <p align="center">
   <strong>GDG on Campus Makerere</strong><br/>
